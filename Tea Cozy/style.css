@@ -1,0 +1,125 @@
+body {
+    background-color: black;
+    color: seashell;
+    font-family: Helvetica, sans-serif;
+}
+
+.nav {
+    max-height: 69px;
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    justify-content: space-between;
+    border-bottom: 1px solid seashell;
+}
+
+#logo {
+    height: 50px;
+    margin: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.nav ul {
+    display: flex;
+    text-align: right;
+    align-items: right;
+    justify-content: right;
+}
+
+.nav ul li {
+    display: inline;
+    margin: 15px;
+    text-decoration: underline;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+
+.mission {
+    display: flex;
+    height: 700px;
+    width: 1200px;
+    background-image: url(../Images/img-mission-background.jpg);
+    vertical-align: middle;
+    text-align: center;
+    margin: 0px 20px 20px 20px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.missionTitle {
+    display: inline-block;
+    margin: 0 auto;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.teaMonth {
+    display: block;
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+.teaStyle {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+}
+
+.teas {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+.locations {
+    height: 500px;
+    width: 1200px;
+    background-image: url(../Images/img-locations-background.jpg);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+}
+
+.locationTitle {
+    width: 1200px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0 auto;
+}
+.copyright {
+    text-align: left;
+    margin: 20px;
+}
+
+.address {
+    background-color: black;
+    width: 300px;
+    display: flex;
+    flex-flow: column wrap;
+    margin: 10px;
+    text-align: center;
+    opacity: 1;
+}
+
+.inlineLocations {
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+.contact-info {
+    text-align: center;
+}
