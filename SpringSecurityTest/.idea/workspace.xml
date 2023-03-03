@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db066a81-de3d-43a4-8194-f4027c45a19d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/controllers/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/controllers/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/JwtAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/SecurityUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/UserModelDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/UserNotActivatedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/jwt/JWTConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/jwt/JWTFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/java/com/greg/gregsecuritytest/security/jwt/TokenProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringDataJPATutorial/spring-data-jpa-course" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringDataJPATutorial/spring-data-jpa-course" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gregsecuritytest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gregsecuritytest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gregsecuritytest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gregsecuritytest/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MUH0KLucOlDhR1xnL8p9H4wOuu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db066a81-de3d-43a4-8194-f4027c45a19d" name="Changes" comment="" />
+      <created>1677815019226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677815019226</updated>
+    </task>
+    <servers />
+  </component>
+</project>
